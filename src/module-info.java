@@ -4,5 +4,5 @@
 /**
  * 
  */
-module Medic {
+module medmanagerV1 {
 }
